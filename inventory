@@ -1,5 +1,5 @@
-[install_premetheus_Ubuntu]
-192.168.56.104 ansible_python_interpreter=/usr/bin/python3 #server1
+[install_prometheus_Ubuntu]
+192.168.56.105 ansible_python_interpreter=/usr/bin/python3 #server1
 
-[install_premetheus_centos]
-192.168.56.105 ansible_python_interpreter=/usr/bin/python #centOS
+[install_prometheus_centos]
+192.168.56.107 ansible_python_interpreter=/usr/bin/python #centOS
